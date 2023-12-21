@@ -1,0 +1,29 @@
+[
+    {
+        "model": "basketballLeague.playergame",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "user": 7,
+            "score": 15
+        }
+    },
+    {
+        "model": "basketballLeague.playergame",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "user": 7,
+            "score": 20
+        }
+    },
+    {
+        "model": "basketballLeague.playergame",
+        "pk": 3,
+        "fields": {
+            "game": 3,
+            "user": 7,
+            "score": 18
+        }
+    }
+]

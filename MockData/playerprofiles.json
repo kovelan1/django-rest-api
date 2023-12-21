@@ -1,0 +1,56 @@
+[
+    {
+        "model": "basketballLeague.playerprofile",
+        "pk": 1,
+        "fields": {
+            "user": 3,
+            "height": 180.51,
+            "team": 1
+        }
+    },
+     {
+        "model": "basketballLeague.playerprofile",
+        "pk": 2,
+        "fields": {
+            "user": 5,
+            "games_played": 5,
+            "team": 1
+        }
+    },
+     {
+        "model": "basketballLeague.playerprofile",
+        "pk": 3,
+        "fields": {
+            "user": 6,
+            "games_played": 5,
+            "team": 1
+        }
+    },
+  {
+        "model": "basketballLeague.playerprofile",
+        "pk": 4,
+        "fields": {
+            "user": 7,
+            "games_played": 5,
+            "team": 2
+        }
+    },
+  {
+        "model": "basketballLeague.playerprofile",
+        "pk": 5,
+        "fields": {
+            "user": 8,
+            "games_played": 5,
+            "team": 2
+        }
+    },
+  {
+        "model": "basketballLeague.playerprofile",
+        "pk": 6,
+        "fields": {
+            "user": 9,
+            "games_played": 5,
+            "team": 2
+        }
+    }
+]

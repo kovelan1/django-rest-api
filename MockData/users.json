@@ -1,0 +1,98 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 11,
+        "fields": {
+            "username": "leagueadmin",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "is_superuser": true,
+            "is_staff": true,
+            "groups": [1]
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "username": "coachjohn",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [2]
+        }
+    },
+
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "username": "coachmark",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [2]
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+            "username": "playerjohnsan",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 5,
+        "fields": {
+            "username": "playermike",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 6,
+        "fields": {
+            "username": "playerfeter",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 7,
+        "fields": {
+            "username": "playersam",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    }
+    ,
+    {
+        "model": "auth.user",
+        "pk": 8,
+        "fields": {
+            "username": "playersanthos",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    }
+    ,
+    {
+        "model": "auth.user",
+        "pk": 9,
+        "fields": {
+            "username": "playerkumara",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    }
+    ,
+    {
+        "model": "auth.user",
+        "pk": 10,
+        "fields": {
+            "username": "playerkosal",
+            "password": "pbkdf2_sha256$720000$7TlPft8izOXs09j6jk2R8I$PBgNIprxekiYgTcdBCZAdgph3N01MotPQo604hjpyOI=",
+            "groups": [3]
+        }
+    }
+]

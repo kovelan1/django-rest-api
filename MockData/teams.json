@@ -1,0 +1,18 @@
+[
+    {
+        "model": "basketballLeague.team",
+        "pk": 1,
+        "fields": {
+            "name": "Team A",
+            "coach": 2
+        }
+    },
+    {
+        "model": "basketballLeague.team",
+        "pk": 2,
+        "fields": {
+            "name": "Team B",
+            "coach": 4
+        }
+    }
+]
